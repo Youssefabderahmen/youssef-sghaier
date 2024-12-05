@@ -4,9 +4,13 @@
 
 ## Skills 🖋 :
 -💻 C, JAVA, PHP, HTML, CSS
+
 -📱 DEVLEPOMENT MOBILE 
+
 -💻 EMBADDED SYSREME
+
 -💻 SQL, PhpMyadmin, ORACLE, MySql Workbench
+
 -💻 IOT, MQTT, NODE RED 
 
 ## Experience 💼 :
