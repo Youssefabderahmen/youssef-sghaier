@@ -13,5 +13,5 @@
 - Introductory internship at Office National de l'Assainissement 📝
 
 ## Social Media 
-- Linked in : [Youssef](https://www.linkedin.com/in/youssef-abderrahmen-essghaier-183093330/)
-- Mail : esghaieryoussef9@gmail.com 📧
+- Linked in : [Youssef Abderahmen Essghaier](https://www.linkedin.com/in/youssef-abderrahmen-essghaier-183093330/)
+- Mail : esghaieryoussef94@gmail.com 📧
